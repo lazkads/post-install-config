@@ -36,7 +36,7 @@ Configure Roles (for grouping permissions).  Configure Departments (Ticket Visib
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hpsIcP3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Agents (workers).  Configure Users (customers).  Configure SLA.  Configure Help Topics (For when users create a ticket)
